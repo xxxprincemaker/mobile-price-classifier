@@ -5,3 +5,4 @@ missingno
 matplotlib
 numpy
 scikit-learn
+scipy

@@ -42,13 +42,9 @@ The dataset used in this project is sourced from the [Mobile Price Range Predict
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   run install.bat script
    ```
 
-3. Launch the Jupyter Notebook:
-   ```bash
-   jupyter notebook main.ipynb
-   ```
 
 4. Follow the instructions in the notebook to preprocess the data, train models, and evaluate their performance.
 
